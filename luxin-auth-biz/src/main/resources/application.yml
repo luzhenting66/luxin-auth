@@ -7,7 +7,7 @@ spring:
   redis:
     password: lzt4922
     port: 6379
-    host: 116.62.4.29
+    host: 192.168.222.1
 
 xxl:
   job:
